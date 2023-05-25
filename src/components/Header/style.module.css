@@ -1,0 +1,14 @@
+.header{
+background-color: rgb(57, 49, 49);
+height: 45px;
+display: flex;
+align-items: center;
+box-shadow: 10px 5px 5px black;
+}
+.link{
+  font-style: none;
+  text-decoration: none;
+  color: azure;
+  margin-left: 30px;
+  
+}
